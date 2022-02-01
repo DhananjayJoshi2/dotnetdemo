@@ -1,1 +1,2 @@
 This is file from remote dic.
+this is change 2 in file
